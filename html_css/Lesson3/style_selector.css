@@ -1,0 +1,26 @@
+
+p {
+  font-size: 18px;
+}
+
+article {
+    font-family: sans-serif;
+}
+
+
+main li {
+  border-bottom: 1px solid #06c;
+}
+
+.subheading {
+  background: #e0e0e0;
+}
+
+#intro {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+main ul li {
+  border-top-style: dotted;
+}
